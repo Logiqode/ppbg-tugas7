@@ -1,4 +1,4 @@
 ﻿# Tugas 7 - Login Screen
- Jeremy James
- 5025221139
+ Jeremy James <br>
+ 5025221139 <br>
  Pemrograman Perangkat Bergerak G
